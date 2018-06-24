@@ -1,16 +1,23 @@
 /*CSS FOR WEB*/
 body{
-	background-color: #333;	
+	background-color: #ee5c65;	
 	height: auto;
 	margin-left:auto;
 	margin-right:auto;
-	background: #ee5c65;
-	background-attachment: scroll;
-	background-size: 100vh;
-	/*
-	overflow: hidden;
-	*/
 }
+
+header{
+	background-color: #ebc1c8;	
+	margin-bottom: 25px;
+}
+
+#banner{
+	color: #FFF;
+	font-size: 35px;
+	padding: 30px;
+    font-weight: bold;
+}
+
 /*DIVS*/
 .container{
 	width:80%;
