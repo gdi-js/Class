@@ -67,7 +67,6 @@ function createNewText(){
 }
 //createNewText();
 
-
 function creatNewPara(){
 	var para = document.createElement('p');
 	var node = document.createTextNode("This is mew.");

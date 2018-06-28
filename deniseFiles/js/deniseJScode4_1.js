@@ -90,9 +90,10 @@ function changeBody() {
 //changeBody();
 
 
-/* Changes body tect color to red
-var pageBody = document.getElementsByTagName('body')[0];
-pageBody.style.color = 'red';
+/* 
+	Changes body text color to red
+	var pageBody = document.getElementsByTagName('body')[0];
+	pageBody.style.color = 'red';
 */
 
 /*	
